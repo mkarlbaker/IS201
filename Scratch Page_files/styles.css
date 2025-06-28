@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.tableau {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+h1 {
+    font-family: serif;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: darkblue
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.leftalign {
+    text-align: left;
+}
